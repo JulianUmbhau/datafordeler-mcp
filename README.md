@@ -1,5 +1,8 @@
 # datafordeler-mcp
 
+> **Moved.** This project is now [bbr-mcp](https://github.com/JulianUmbhau/bbr-mcp), on PyPI as
+> [`bbr-mcp`](https://pypi.org/project/bbr-mcp/). This repository is archived.
+
 An [MCP](https://modelcontextprotocol.io) server for Danish buildings and addresses. It lets a model:
 
 - find an address from free text,
